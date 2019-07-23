@@ -168,16 +168,12 @@ body {
     padding: 20px;
     border-bottom: solid .5px grey;
     margin-bottom: 10px;
-    margin-left: 350px;
-    color: rgb(238, 158, 93);
-    background-color: #555;
+    margin-left: 550px;
+    color: rgb(236, 139, 59);
+    background-color: rgb(56, 139, 187);
     opacity: 0.5;
     width: 320px;
-    
-    
-   
 }
-
 
 
 
@@ -212,24 +208,21 @@ footer {
       max-width: 960px;
       
       bottom: auto;
-      
-      
-
 
       
   }
 
   .center {
     font-family: Arial, Helvetica, sans-serif;
-    top: -60px;
+    bottom: -120px;
     text-align: center;
     line-height: 60px;
     position: absolute;
     background-color:rgb(63, 179, 163); 
     color: white;
   
-    width: 310px;
-    margin-left: 40px;
+    width: 210px;
+    margin-left: 15px;
     
     
     
@@ -237,20 +230,14 @@ footer {
   }
 
   .photos {
-      width: 310px;
+      width: 210px;
       height: 280px;
-      margin-left: 40px;
-      margin-top: 40px;
+      /* margin-left: 40px;
+      margin-top: 40px; */
+      border: solid white;
   }
 
-  .entirety {
-    
-    display: inline;
-      position: relative;
-      max-width: 960px;
-     
-      
-  }
+  
 
   .boxed {
     font-family: Arial, Helvetica, sans-serif;
@@ -317,9 +304,40 @@ footer {
 .All {
     margin:auto;
     text-align: center;
-    background-image: url("Mustangs.jpg");
-    width: 1060px;
-   
+    background-image: url("img/Mustangs.jpg");
+    width: auto;
+    height: auto;
 }
 
+.All2 {
+    margin:auto;
+    text-align: center;
+    background-image: url("img/my-painting.png");
+    width: auto;
+    height: auto;
+
+}
+
+.Typing {
+
+    border: solid rgb(0, 132, 165);
+    width: 110px;
+    height: 100px;
+    background-color: rgb(187, 58, 58);
+    opacity: 0.5;
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    
+}
+
+.Writting2 {
+    border: solid rgb(0, 132, 165);
+    width: 310px;
+    height: 200px;
+    background-color: rgb(185, 187, 58);
+    opacity: 0.5;
+    margin-top: 50px;
+    margin-left: 70px;
+
+}
   
