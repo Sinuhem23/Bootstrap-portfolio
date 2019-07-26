@@ -130,6 +130,8 @@ li a:hover {
     border: solid rgb(0, 159, 165); 
     background-color: #555;
     opacity: 0.9; 
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .last2 {
@@ -137,6 +139,8 @@ li a:hover {
     background-color: #555;
     opacity: 0.9;
     
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .last3 { 
@@ -150,6 +154,8 @@ li a:hover {
     border: solid rgb(0, 165, 143); 
     background-color: #555;
     opacity: 0.9;
+    margin-right: 10px;
+    margin-left: 10px;
 
 }
 
